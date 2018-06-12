@@ -1,3 +1,6 @@
+This is forked repository for DEMO Purpose
+
+
 [![Build Status](https://travis-ci.org/FabianGosebrink/ASPNETCore-Angular-Ngrx.svg?branch=master)](https://travis-ci.org/FabianGosebrink/ASPNETCore-Angular-Ngrx)
 
 # ASP.NET Core WebAPI / Angular Demo with Ngrx store & Ngrx effects, Component based design & Lazy Loading runnable on every Platform (Cross Platform)
